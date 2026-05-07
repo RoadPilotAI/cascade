@@ -73,3 +73,16 @@ Avoid:
 ## Start Here
 
 Read `docs/workflows/START_HERE.md` first.
+
+## License
+
+All Rights Reserved.
+
+No permission is granted to copy, modify, distribute, train AI systems on, or create derivative works from this repository or its contents without explicit written permission from the copyright holder.
+```markdown
+## License
+
+This project is licensed under the Cascade Editorial System License (CESL) v1.0.
+
+Personal and educational use permitted.
+Commercial use prohibited without permission.
